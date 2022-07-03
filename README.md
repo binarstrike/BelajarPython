@@ -1,2 +1,2 @@
 # BelajarPython
-Belajar bahasa pemrograman python
+## Belajar bahasa pemrograman python
