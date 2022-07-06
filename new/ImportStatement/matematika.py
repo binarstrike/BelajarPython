@@ -1,3 +1,5 @@
+import math
+
 def tambah(x, y) -> float:
 	return x + y
 
@@ -16,3 +18,7 @@ def bagi(x, y) -> float:
 		return
 	else:
 		return x / y
+
+def luas_lingkaran(jari_jari) -> float:
+	PI = math.pi
+	return PI * jari_jari ** 2
